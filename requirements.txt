@@ -1,0 +1,13 @@
+torch>=1.9.0
+torchvision>=0.10.0
+numpy>=1.21.0
+opencv-python>=4.5.0
+rasterio>=1.2.0
+matplotlib>=3.3.0
+scikit-learn>=0.24.0
+earthengine-api>=0.1.270
+geemap>=0.8.0
+requests>=2.25.0
+PyYAML>=5.4.0
+tqdm>=4.60.0
+pillow>=8.2.0
