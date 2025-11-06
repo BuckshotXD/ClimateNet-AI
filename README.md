@@ -13,6 +13,9 @@
 
 <p>Key objectives include real-time deforestation monitoring, glacier retreat quantification, urban heat island analysis, and early warning systems for climate-related disasters. The architecture is designed for both research deployment and operational environmental monitoring applications.</p>
 
+<img width="888" height="464" alt="image" src="https://github.com/user-attachments/assets/490818ab-4da4-48db-9d3d-2acff8d9dc03" />
+
+
 <h2>System Architecture</h2>
 
 <p>The ClimateNet pipeline follows a modular deep learning workflow:</p>
@@ -222,6 +225,9 @@ climate-net/
   <li>Validation accuracy plateaus at ~92-95% across different environmental classes</li>
   <li>Inference time: 0.8 seconds per 256×256 image on NVIDIA V100 GPU</li>
 </ul>
+
+<img width="796" height="407" alt="image" src="https://github.com/user-attachments/assets/17ce3103-ddd7-4022-b375-f513bca9394a" />
+
 
 <p><strong>Visualization Examples:</strong></p>
 
